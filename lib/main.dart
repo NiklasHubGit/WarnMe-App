@@ -60,7 +60,6 @@ class _MyHomePageState extends State<MyHomePage> {
     final String? naeheString = prefs.getString('naehe');
     if (naeheString == null) {
       setState(() {
-        naehe = Alarm.nah;
       });
     } else if (naeheString == "nah") {
       setState(() {
