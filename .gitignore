@@ -46,9 +46,5 @@ app.*.map.json
 # Signing and keystore things
 upload-keystore.jks
 /android/key.properties
-<<<<<<< Updated upstream
-hochwasserwarnapp-4b01ebd06065.json
-=======
 android/app/google-services.json
 ios/Runner/GoogleService-Info.plist
->>>>>>> Stashed changes

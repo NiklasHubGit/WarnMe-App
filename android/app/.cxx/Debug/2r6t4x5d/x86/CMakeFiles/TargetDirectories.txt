@@ -1,0 +1,2 @@
+/home/niklas/Areas/WarnMe/warnapp/android/app/.cxx/Debug/2r6t4x5d/x86/CMakeFiles/edit_cache.dir
+/home/niklas/Areas/WarnMe/warnapp/android/app/.cxx/Debug/2r6t4x5d/x86/CMakeFiles/rebuild_cache.dir
